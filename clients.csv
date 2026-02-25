@@ -1,0 +1,51 @@
+client_id,client_name,contact_name,region,product,aum_millions,deal_stage,meetings_ytd,emails_ytd,last_contact,revenue_ytd
+CLT1000,"Ryan, Robinson and Dickerson",Nicole Johnson,Americas,Equities,3710.34,Qualified,7,8,2025-09-13,369553.25
+CLT1001,Wilcox-Riley,Scott Joseph,Asia Pacific,Research,443.82,Negotiation,1,1,2025-09-03,51379.14
+CLT1002,Thompson-Young,Martin Turner,Asia Pacific,Research,142.41,Qualified,20,44,2025-12-26,274746.03
+CLT1003,"Sanders, Jones and Anderson",Steven Walter,EMEA,Research,1398.17,Prospect,5,44,2025-12-29,214194.13
+CLT1004,Harrington-Jackson,Andrea Blake,Americas,Fixed Income,4786.49,Proposal,3,5,2025-12-14,193064.01
+CLT1005,Morgan LLC,Briana Douglas,EMEA,Research,1329.96,Prospect,14,34,2025-11-24,66788.95
+CLT1006,Hanson Inc,Isabel Nelson,Americas,Research,1472.96,Closed Lost,19,23,2025-11-19,290789.31
+CLT1007,Brown and Sons,Melinda Hernandez,Americas,Fixed Income,3867.61,Prospect,7,6,2026-02-06,193162.48
+CLT1008,Moore-Pacheco,Stephanie Ashley,Asia Pacific,FX,821.64,Proposal,6,42,2025-10-30,137154.02
+CLT1009,Martinez LLC,Kristopher Lawson,Asia Pacific,Equities,3049.56,Qualified,17,46,2025-09-02,126181.41
+CLT1010,"Carlson, Mccormick and Gonzales",Crystal James,EMEA,FX,4947.72,Closed Lost,17,14,2025-10-28,343884.05
+CLT1011,"Greer, Phillips and Rodgers",Travis Stewart,Americas,Equities,4027.18,Negotiation,8,4,2026-02-09,109436.51
+CLT1012,"Curtis, Rogers and Paul",Catherine Curry,Asia Pacific,FX,1071.01,Negotiation,12,41,2025-10-01,232131.67
+CLT1013,"Myers, Owens and Jimenez",Caitlin Friedman,Americas,Fixed Income,3727.5,Closed Won,8,47,2025-12-18,294370.07
+CLT1014,"Gonzalez, Soto and Warren",Kevin Rodriguez,EMEA,FX,1104.41,Qualified,16,31,2025-09-27,50000.16
+CLT1015,"Schultz, Brown and Grant",Justin Smith,Americas,Fixed Income,3140.96,Closed Lost,13,38,2026-02-11,36446.21
+CLT1016,Rios Group,Dean Barnett,Asia Pacific,Derivatives,2650.28,Closed Won,0,43,2025-11-18,361757.3
+CLT1017,Sanchez PLC,Alfred Martinez,Asia Pacific,FX,3845.31,Proposal,3,18,2025-09-02,220208.8
+CLT1018,Lane-Woods,Nicole Baker,Americas,FX,4859.72,Qualified,16,6,2025-10-30,435906.69
+CLT1019,Harris-Summers,Jennifer Hughes,Asia Pacific,Research,3048.76,Qualified,11,48,2025-12-09,84966.77
+CLT1020,"Patterson, Gomez and Bryant",Daniel Mcintyre,Americas,Research,1627.54,Prospect,3,23,2025-10-11,439967.33
+CLT1021,Martin-Parks,Mackenzie Wilson,Americas,Equities,1211.95,Closed Won,2,5,2025-12-07,367294.26
+CLT1022,"Mathis, Hall and Potter",Eric Sanders,Asia Pacific,Fixed Income,650.67,Negotiation,17,10,2026-02-06,136203.03
+CLT1023,Thomas-Sanchez,Jack Hill,EMEA,Fixed Income,4645.28,Closed Lost,6,45,2025-09-21,159299.56
+CLT1024,"Scott, Boyd and Ayers",Mark Richards,Asia Pacific,FX,2196.12,Closed Won,14,7,2025-09-05,127713.28
+CLT1025,"Chavez, Perez and Clayton",Laura Burns,EMEA,Equities,2945.66,Qualified,18,14,2026-02-07,8559.47
+CLT1026,Knight PLC,Tina Joyce,Americas,Fixed Income,346.33,Prospect,10,4,2025-09-15,259507.28
+CLT1027,"Sandoval, Sandoval and Shelton",Michael Perez,Asia Pacific,Derivatives,1079.04,Qualified,18,36,2025-12-14,238972.16
+CLT1028,Moran-Scott,Valerie Mccarty,EMEA,Fixed Income,480.69,Closed Lost,13,22,2025-10-25,214671.42
+CLT1029,Rogers-Black,Helen Bender,Asia Pacific,Equities,3370.09,Closed Lost,3,3,2025-10-27,204297.53
+CLT1030,"White, Boyd and Bailey",Erin Oneill,Americas,Fixed Income,966.03,Closed Won,14,8,2025-11-29,213831.41
+CLT1031,"Pierce, Wilkerson and Gibson",Hunter White,EMEA,Fixed Income,4373.68,Prospect,14,35,2025-12-14,53464.82
+CLT1032,Reynolds-Key,Jennifer George,Asia Pacific,Equities,4845.29,Qualified,5,26,2025-09-10,245392.36
+CLT1033,"Carrillo, Camacho and Bowers",Justin Austin,EMEA,Equities,831.54,Prospect,12,16,2025-12-31,463626.45
+CLT1034,"Garcia, Clayton and Duncan",James Olson,EMEA,Derivatives,3485.99,Closed Lost,17,42,2025-10-30,360612.1
+CLT1035,Brown-Murphy,Matthew Cowan,Americas,FX,1096.33,Prospect,18,47,2026-01-15,273386.62
+CLT1036,Conley-Campbell,Kim Bullock,Americas,Equities,2925.05,Closed Won,16,10,2025-12-05,33155.39
+CLT1037,Friedman and Sons,Lisa Rice,Americas,Fixed Income,351.92,Prospect,7,25,2025-10-16,64343.87
+CLT1038,Simmons-Weaver,Taylor Daniel,Americas,Research,2976.65,Closed Won,2,26,2025-10-01,330399.72
+CLT1039,Patel-Webster,Andrew Horne,Asia Pacific,FX,4674.18,Qualified,10,15,2025-10-02,136479.18
+CLT1040,Larsen PLC,Christopher Burns,Asia Pacific,FX,2291.55,Prospect,0,29,2026-01-21,312473.83
+CLT1041,Schwartz-Bowers,Eric Bowman PhD,Americas,Equities,2692.8,Closed Won,8,8,2025-10-02,466963.39
+CLT1042,Chapman and Sons,Jacqueline Jimenez,Americas,FX,1432.09,Negotiation,17,45,2026-02-06,154745.99
+CLT1043,Poole-Baker,Zachary Duffy,Asia Pacific,Equities,3342.64,Closed Won,9,42,2025-09-09,56275.32
+CLT1044,"Campbell, Shepard and Phillips",Christopher Williams,EMEA,Equities,4449.67,Closed Lost,17,9,2026-01-20,139812.37
+CLT1045,Bell-Johnston,Debbie Patel,Americas,FX,1025.95,Closed Lost,8,32,2025-09-22,246823.27
+CLT1046,Wise Inc,Donna Schroeder,Americas,Derivatives,4148.45,Prospect,0,21,2026-02-10,386704.02
+CLT1047,Daniels-Smith,Anthony Haley,EMEA,Fixed Income,3708.74,Closed Won,13,35,2025-09-13,9786.5
+CLT1048,"Caldwell, Benson and Kelly",Randall Miller,Asia Pacific,Fixed Income,2732.5,Proposal,18,35,2026-02-04,78306.42
+CLT1049,Galloway-Rice,Justin Lawrence,Americas,FX,1829.61,Prospect,11,13,2026-01-22,342623.01
